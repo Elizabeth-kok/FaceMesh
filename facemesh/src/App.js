@@ -21,7 +21,7 @@ import * as facemesh from "@tensorflow-models/facemesh";
 // NEW MODEL
 //import * as facemesh from "@tensorflow-models/face-landmarks-detection";
 import Webcam from "react-webcam";
-//import { drawMesh } from "./utilities";
+import { drawMesh } from "./utilities";
 
 function App() {
   // Setup reference
